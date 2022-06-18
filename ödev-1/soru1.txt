@@ -1,0 +1,13 @@
+Soru 1: OOP nedir? Ne amaçlı kullanılır?
+OOP kelime anlamı olarak Nesne Yönelimli Programlama'dır. Nesne Yönelimli Programlama yazılım tasarımını mantık ve işlevler yerine, veri veya nesneler etrafında düzenleyen bir programlama dili modelidir.  Yani çevremize bakıp gördüğümüz her şey birer nesnedir. Örneğin; kuş, araba, insan, ev, ağaç her biri birer nesnedir. OOP'nin asıl amacı oluşan karışıklığı, kodların belirli bir düzene konulması, zamandan ve maliyetten tasarruf etmektir.
+
+Soru 2: Polymorphism ne amaçlı kullanılır?
+Polymorphism'in amacı temel bir sınıftan başka bir sınıf türetip, türetilen yeni sınıf içinde temel sınıftaki bazı nesneler kullanabilmektir.
+
+Soru 3: Bir metodun private, protected ya da public olması kavramlarını açıklayınız.
+Public: İlgili sınıfın nesnesiyle her yerden erişebilirsiniz.
+Private: Sınıf dışından herhangi bir şekilde erişilemez. Private olan bir metot sadece o sınıfın kendi fonksiyonları ve metotları tarafından kullanılabilir
+Protected: İlgili sınıf dışından erişilemezler. Protected, miras alınan sınıf içerisinde kullanılabilir. 
+
+Soru 4: (Abstraction) Soyutlama nedir?
+Abstract Türkçe karşılığı Soyutlama'dır . Classlar temel özelliklerin toplandığı kendisinden türetilen yani olduğu sınıflara miras bırakmaktır.
